@@ -1,0 +1,106 @@
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Presentación.exe
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.exe
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.MenuAdmin.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.RegistrarPaciente.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.RegistrarAdmin.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.Login.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarDoctor.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarEspecialidad.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.ListadoCitas.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.MenuPaciente.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.Form1.resources
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Entidades.dll
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Negocios.dll
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Entidades.pdb
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Negocios.pdb
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.Pantallas.AgendarCita.resources
+C:\Users\Sebas\source\repos\TF\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Datos.dll
+C:\Users\Sebas\source\repos\TF\Presentación\bin\Debug\Datos.pdb
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Presentación.exe
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Datos.dll
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Entidades.dll
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Negocios.dll
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Datos.pdb
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Entidades.pdb
+C:\Users\Johnx\Desktop\TF\Presentación\bin\Debug\Negocios.pdb
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.csprojAssemblyReference.cache
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.Form1.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.AgendarCita.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.ListadoCitas.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.MenuPaciente.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarDoctor.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarEspecialidad.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.Login.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.MenuAdmin.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.RegistrarPaciente.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.RegistrarAdmin.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.exe
+C:\Users\Johnx\Desktop\TF\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.Form1.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.AgendarCita.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.ListadoCitas.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.MenuPaciente.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarDoctor.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarEspecialidad.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Pantallas.Login.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.MenuAdmin.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.RegistrarPaciente.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.RegistrarAdmin.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.exe
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Presentación.exe
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Datos.dll
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Entidades.dll
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Negocios.dll
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Datos.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Entidades.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\bin\Debug\Negocios.pdb
+C:\Users\Sebas\Desktop\TF\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Presentación.exe
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Datos.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Entidades.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Negocios.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Datos.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Entidades.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\bin\Debug\Negocios.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.Form1.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.AgendarCita.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.ListadoCitas.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.MenuPaciente.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarDoctor.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.RegistrarEspecialidad.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Pantallas.Login.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.MenuAdmin.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.RegistrarPaciente.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.RegistrarAdmin.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.exe
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Presentación\obj\Debug\Presentación.pdb

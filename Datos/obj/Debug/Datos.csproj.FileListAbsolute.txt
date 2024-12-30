@@ -1,0 +1,36 @@
+C:\Users\Sebas\source\repos\TF\Datos\bin\Debug\Datos.dll
+C:\Users\Sebas\source\repos\TF\Datos\bin\Debug\Datos.pdb
+C:\Users\Sebas\source\repos\TF\Datos\bin\Debug\Entidades.dll
+C:\Users\Sebas\source\repos\TF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Sebas\source\repos\TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Sebas\source\repos\TF\Datos\obj\Debug\Datos.dll
+C:\Users\Sebas\source\repos\TF\Datos\obj\Debug\Datos.pdb
+C:\Users\Johnx\Desktop\TF\Datos\bin\Debug\Datos.dll
+C:\Users\Johnx\Desktop\TF\Datos\bin\Debug\Datos.pdb
+C:\Users\Johnx\Desktop\TF\Datos\bin\Debug\Entidades.dll
+C:\Users\Johnx\Desktop\TF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Johnx\Desktop\TF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Johnx\Desktop\TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Johnx\Desktop\TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Johnx\Desktop\TF\Datos\obj\Debug\Datos.dll
+C:\Users\Johnx\Desktop\TF\Datos\obj\Debug\Datos.pdb
+C:\Users\Sebas\Desktop\TF\Datos\bin\Debug\Datos.dll
+C:\Users\Sebas\Desktop\TF\Datos\bin\Debug\Datos.pdb
+C:\Users\Sebas\Desktop\TF\Datos\bin\Debug\Entidades.dll
+C:\Users\Sebas\Desktop\TF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Sebas\Desktop\TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Sebas\Desktop\TF\Datos\obj\Debug\Datos.dll
+C:\Users\Sebas\Desktop\TF\Datos\obj\Debug\Datos.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\bin\Debug\Datos.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\bin\Debug\Datos.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\bin\Debug\Entidades.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\bin\Debug\Entidades.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\obj\Debug\Datos.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Datos\obj\Debug\Datos.pdb

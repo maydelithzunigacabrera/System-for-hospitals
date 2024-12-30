@@ -1,0 +1,44 @@
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Negocios.dll
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Datos.dll
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Entidades.dll
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Datos.pdb
+C:\Users\Sebas\source\repos\TF\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Sebas\source\repos\TF\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\TF\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\TF\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Sebas\source\repos\TF\Negocios\obj\Debug\Negocios.dll
+C:\Users\Sebas\source\repos\TF\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Negocios.dll
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Datos.dll
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Entidades.dll
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Datos.pdb
+C:\Users\Johnx\Desktop\TF\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Johnx\Desktop\TF\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Johnx\Desktop\TF\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Johnx\Desktop\TF\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Johnx\Desktop\TF\Negocios\obj\Debug\Negocios.dll
+C:\Users\Johnx\Desktop\TF\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Negocios.dll
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Datos.dll
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Entidades.dll
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Datos.pdb
+C:\Users\Sebas\Desktop\TF\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Sebas\Desktop\TF\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\TF\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\TF\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Sebas\Desktop\TF\Negocios\obj\Debug\Negocios.dll
+C:\Users\Sebas\Desktop\TF\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Negocios.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Datos.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Entidades.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Datos.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\obj\Debug\Negocios.dll
+C:\Users\Caroline\Desktop\Fundamentos de Sistemas\TRABAJO FINAL\CODIGO TF\Negocios\obj\Debug\Negocios.pdb

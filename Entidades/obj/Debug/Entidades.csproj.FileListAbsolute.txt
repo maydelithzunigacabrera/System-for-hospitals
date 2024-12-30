@@ -1,0 +1,12 @@
+C:\Users\Sebas\source\repos\TF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Sebas\source\repos\TF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebas\source\repos\TF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\TF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\TF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Sebas\source\repos\TF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Sebas\Desktop\TF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Sebas\Desktop\TF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebas\Desktop\TF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\TF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\TF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Sebas\Desktop\TF\Entidades\obj\Debug\Entidades.pdb
