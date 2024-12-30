@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/54fd665e-0cb4-44ab-a35f-1082a8385cbf)
 
 
-🎯This system is designed to facilitate the management of a hospital
+🎯This system is designed to facilitate the management of a hospital                                                                                                             
 ⚙️Functions in C:
   - Patient registration
   - Doctor and staff management
